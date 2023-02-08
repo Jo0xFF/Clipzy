@@ -1,6 +1,6 @@
 [
     {
-        "origin": ["*"],
+        "origin": ["https://clipzyy.netlify.app"],
         "responseHeader": ["Content-Type"],
         "method": ["GET"],
         "maxAgeSeconds": 3600

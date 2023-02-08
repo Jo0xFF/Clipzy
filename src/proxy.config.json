@@ -1,0 +1,8 @@
+{
+    "/*": {
+        "target": "http://firebasestorage.googleapis.com",
+        "secure": false,
+        "logLevel": "info"
+    }
+  }
+  

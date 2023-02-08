@@ -97,7 +97,8 @@
             "headers": {
               "Cross-Origin-Opener-Policy": "same-origin",
               "Cross-Origin-Embedder-Policy": "require-corp"
-            }
+            },
+            "proxyConfig": "src/proxy.config.json"
           }
         },
         "extract-i18n": {
